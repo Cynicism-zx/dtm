@@ -1,4 +1,3 @@
-conf.yml
 *.out
 *.log
 dist
